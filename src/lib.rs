@@ -15,14 +15,13 @@ const WORDS: &'static str = include_str!("words.txt");
 
 pub fn random_word() -> &'static str {
     let words: Vec<&'static str> = WORDS.lines().collect();
-    let mut rng = thread_rng();
-    let word = rng.choose(&words).expect("words is empty");
+    let mut rng = rand::rngs::OsRng::new().expect("could not create rng");
+    let word = words.as_slice().choose(&mut rng).expect("words is empty");
     debug!("generated random word: {:?}", word);
     word
 }
 
 #[wasm_bindgen]
 pub fn full_tweet() -> String {
-    pretty_env_logger::init();
     format!("Stop policitizing {}", random_word())
 }
