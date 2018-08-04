@@ -1,0 +1,19 @@
+[package]
+name = "stop_politicizing_bot"
+version = "0.1.0"
+authors = ["Tom Houlé <tom@tomhoule.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+structopt = "0.2.10"
+dotenv = "0.13.0"
+log = "0.4.3"
+pretty_env_logger = "0.2.4"
+failure = "0.1.2"
+wasm-bindgen = "0.2.15"
+js-sys = "0.2.0"
+
+[target.wasm32-unknown-unknown.dependencies]
+rand = { git = "https://github.com/rust-lang-nursery/rand.git", features = ["wasm-bindgen"] }

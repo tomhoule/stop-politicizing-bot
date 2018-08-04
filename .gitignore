@@ -1,0 +1,5 @@
+/target
+**/*.rs.bk
+/stop_politicizing_bot*
+node_modules
+/.env
