@@ -1,6 +1,6 @@
 # stop politicizing bot
 
-Creative credit for the bot goes to @tcatf
+Creative credit for the bot goes to @tcatf\_
 
 Building words.txt (assuming you are on a unix-based system for /usr/share/dict/words):
 
@@ -15,3 +15,5 @@ grep -e "ism$" /usr/share/dict/words >> src/words.txt
 # every proper noun (everything starting with a capital letter), except possessives
 grep -e "^[A-Z].*[^\']s$" /usr/share/dict/words >> src/words.txt
 ```
+
+Additionally, racist slurs were filtered out with the list from the [profanities project](https://github.com/words/profanities).

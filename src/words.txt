@@ -1700,7 +1700,6 @@ balustrades
 bamboos
 bamboozles
 banalities
-bananas
 bandages
 bandannas
 bandboxes
@@ -1922,7 +1921,6 @@ beagles
 beakers
 beaks
 beams
-beanbags
 beanfeasts
 beanies
 beanpoles
@@ -2630,7 +2628,6 @@ booms
 boondocks
 boondogglers
 boondoggles
-boonies
 boons
 boorishness
 boorishnesses
@@ -2960,7 +2957,6 @@ broughams
 brouhahas
 browbeats
 Brownies
-brownies
 brownness
 brownouts
 browns
@@ -4085,7 +4081,6 @@ chimpanzees
 chimps
 chinchillas
 chines
-chinks
 chinless
 Chinooks
 chinos
@@ -4190,7 +4185,6 @@ chubs
 chuckholes
 chuckles
 chucks
-chugs
 chukkas
 chumminess
 chumps
@@ -4510,7 +4504,6 @@ cockscombs
 cocksuckers
 cocktails
 cocoas
-coconuts
 cocoons
 cocos
 codas
@@ -5226,10 +5219,8 @@ cooks
 cookwares
 coolants
 coolers
-coolies
 coolness
 cools
-coons
 coonskins
 cooperates
 cooperativeness
@@ -5972,7 +5963,6 @@ daffodils
 daftness
 daggers
 dagoes
-dagos
 dags
 daguerreotypes
 dahlias
@@ -6033,7 +6023,6 @@ dares
 Darius
 darkeners
 darkens
-darkies
 darkness
 darkrooms
 darlings
@@ -9689,7 +9678,6 @@ gabbiness
 gabbles
 gaberdines
 gabfests
-gables
 gabs
 gadabouts
 gadders
@@ -10165,7 +10153,6 @@ goldsmiths
 golfers
 golfs
 gollies
-golliwogs
 Gompers
 gonads
 gondolas
@@ -10184,7 +10171,6 @@ goofiness
 goofs
 googles
 googlies
-gooks
 goons
 gooseberries
 goosebumps
@@ -10331,7 +10317,6 @@ grayness
 grays
 grazers
 grazes
-greasers
 greases
 greasiness
 greatcoats
@@ -10390,7 +10375,6 @@ grinders
 grindings
 grinds
 grindstones
-gringos
 grins
 gripers
 gripes
@@ -10513,7 +10497,6 @@ guillotines
 guiltiness
 guiltless
 Guineans
-guineas
 Guinness
 guises
 guitarists
@@ -10580,7 +10563,6 @@ gynecologists
 gyppers
 gyps
 Gypsies
-gypsies
 gypsters
 gyrates
 gyrations
@@ -10646,7 +10628,6 @@ hairstyles
 hairstylists
 Haitians
 hajjes
-hajjis
 hakes
 halberds
 hales
@@ -11153,7 +11134,6 @@ hikers
 hikes
 hilarious
 hilariousness
-hillbillies
 hilliness
 hillocks
 hills
@@ -11332,7 +11312,6 @@ honeypots
 honeys
 honeysuckles
 honkers
-honkies
 honks
 honorableness
 honorariums
@@ -11727,7 +11706,6 @@ ileitis
 Iliads
 ilks
 illegalities
-illegals
 illicitness
 Illinois
 Illinoisans
@@ -12664,9 +12642,7 @@ jibes
 jibs
 jiffies
 jiffs
-jiggers
 jiggles
-jigs
 jigsaws
 jihadists
 jihads
@@ -12892,7 +12868,6 @@ kidnaps
 kidneys
 kids
 kielbasas
-kikes
 killdeers
 killers
 killings
@@ -13011,7 +12986,6 @@ Koreans
 koshers
 kowtows
 kraals
-krauts
 Krebs
 Kris
 Ks
@@ -15671,8 +15645,6 @@ Nieves
 Nigerians
 niggardliness
 niggards
-niggas
-niggers
 nigglers
 niggles
 nightcaps
@@ -17865,13 +17837,11 @@ pomades
 pomanders
 pomegranates
 pommels
-pommies
 pompadours
 pompanos
 pompoms
 pompous
 pompousness
-poms
 ponces
 ponchos
 ponderers
@@ -19356,7 +19326,6 @@ redistributes
 redistributors
 redistricts
 redivides
-rednecks
 redness
 redoes
 redoubles
@@ -19367,7 +19336,6 @@ redraws
 redress
 redresses
 reds
-redskins
 reducers
 reduces
 reductions
@@ -21823,7 +21791,6 @@ sloes
 slogans
 slogs
 sloops
-slopes
 sloppiness
 slops
 sloshes
@@ -22204,7 +22171,6 @@ spaciness
 spacious
 spaciousness
 spadefuls
-spades
 spadices
 spammers
 spams
@@ -22311,7 +22277,6 @@ sphincters
 sphinxes
 spices
 spiciness
-spics
 spicules
 spiders
 spiderwebs
@@ -25958,7 +25923,6 @@ Westerns
 westerns
 Wests
 westwards
-wetbacks
 wetlands
 wetness
 wets
@@ -26049,7 +26013,6 @@ whites
 whitetails
 whitewalls
 whitewashes
-whiteys
 whitings
 whits
 Whitsundays
@@ -26233,7 +26196,6 @@ wobbliness
 wodges
 woefulness
 woes
-wogs
 woks
 wolds
 wolfhounds
@@ -26409,7 +26371,6 @@ yammers
 yams
 Yankees
 Yanks
-yanks
 yaps
 yardages
 yardarms
@@ -26450,7 +26411,6 @@ yeshivas
 yesterdays
 yetis
 yews
-yids
 yieldings
 yields
 yikes
