@@ -12,9 +12,6 @@ function main() {
     access_token_secret: process.env["TWITTER_ACCESS_TOKEN_SECRET"]
   };
 
-  //   console.log("authData", authData);
-  //   return;
-
   const Twitter = new twit(authData);
 
   console.log("posting to twitter");
@@ -35,6 +32,6 @@ exports.botHandler = function(_event, _context, callback) {
   main();
 };
 
-for (let i = 0; i < 200; i += 1) {
-  console.log(bot.full_tweet());
+if (require.main === module) {
+  main();
 }
